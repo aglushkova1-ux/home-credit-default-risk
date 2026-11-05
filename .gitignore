@@ -1,0 +1,25 @@
+# Datasets and generated CSV files
+*.csv
+*.parquet
+
+# Trained models
+*.cbm
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
